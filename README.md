@@ -1,4 +1,4 @@
-#USER-MANUAL:
+# USER-MANUAL:
 
 1. Download XAMPP from "https://www.apachefriends.org/download.html" for your operating system.
 2. Start 'Apache' and 'MySQL'.
