@@ -14,10 +14,12 @@
 
 ### Technologies Used:
 
-* HTML5
-* CSS3
-* JavaScript
-* MySQL
-* PHP
+* Front-end:
+    * HTML5
+    * CSS3
+    * JavaScript
+* Back-end & Integration:
+    * MySQL
+    * PHP
 
 >   *Presentation* and *Report* are included as *PPT.pdf* and *REPORT.pdf* respectively. For detailed information please refer this.
