@@ -1,4 +1,4 @@
->   *This is pure spaghetti code. This was my first project which I made to have a taste of web development.*
+>   *This is pure, non-responsive-spaghetti code. This was my first project I made just to have a taste of web development.*
 
 # BookMyEvent
 
